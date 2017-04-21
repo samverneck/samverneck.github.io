@@ -1,5 +1,5 @@
-/node_modules
-/server
-/imgbase
-/assets
-/images
+node_modules
+server
+imgbase
+assets
+images
