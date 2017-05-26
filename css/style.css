@@ -1,6 +1,39 @@
-body{font-family: "Raleway", "Oswald", "Open Sans";}
-.columns.wrapper{max-width: 950px;margin: 0 auto;}
+
+/* para aumentar a fonte é só dar um "font-size: ypx;"*/
+
+body {
+  font-family: "Raleway", "Oswald", "Open Sans";
+  }
+.columns.wrapper {
+  max-width: auto;
+  /*margin: 0 auto;*/
+  }
 .columns.icons   {
   max-width: 750px;
-    margin: 0 auto;
+  margin: 0 auto;
+  background-color: #fff;
+  color: #000;
+  font-weight: bold;
+}
+.columns.frase {
+  max-width: auto;
+  margin: 0 auto;
+  background-color: #000;
+  color: #fff;
+}
+.columns.parceiros {
+  max-width: auto;
+  margin: 0 auto;
+  background-color: #fff;
+  color: #000;
+  font-weight: bold;
+}
+.columns.sobre {
+  margin: 0 auto;
+  background-color: #000;
+  color: #fff;
+  font-weight: bold;
+}
+.footer {
+  background-color: #fff;
 }
